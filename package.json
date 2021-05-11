@@ -1,6 +1,6 @@
 {
   "name": "webpack-theme-color-replacer-ex",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "A webpack plugin designed to dynamically change the theme colors at runtime. supports multiple plugin configurations and automatic processing based on the color array.",
   "keywords": [
     "webpack",
@@ -11,6 +11,9 @@
     "runtime"
   ],
   "license": "MIT",
+  "repository": "techidaily/webpack-theme-color-replacer-ex",
+  "bugs": "https://github.com/techidaily/webpack-theme-color-replacer-ex/issues",
+  "homepage": "https://techidaily.com",
   "main": "src/index.js",
   "scripts": {
     "test": "node test/nodejs/index.js",

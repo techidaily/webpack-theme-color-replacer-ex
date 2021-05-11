@@ -2,10 +2,7 @@
 
 The `webpack-theme-color-replacer-ex` is based on `webpack-theme-color-replacer`, supports multiple plugin configurations, supports automatic processing based on the color array. 
 
-<p align="left">
-  <a href="https://www.npmjs.com/package/webpack-theme-color-replacer-ex"><img src="https://badgen.net/npm/dm/webpack-theme-color-replacer-ex" alt="Downloads"></a>
-  <a href="https://www.npmjs.com/package/webpack-theme-color-replacer-ex"><img src="https://badgen.net/npm/v/webpack-theme-color-replacer-ex" alt="Version"></a>
-</p>
+[![NPM](https://nodei.co/npm/webpack-theme-color-replacer-ex.png?downloads=true)](https://nodei.co/npm/webpack-theme-color-replacer-ex/)
 
 <br/>
 <a href="https://www.buymeacoffee.com/techidaily"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" style="height: 41px !important; width: 174px !important; box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; -webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important; "  target="_blank"></a>
