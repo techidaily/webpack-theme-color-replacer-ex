@@ -1,0 +1,53 @@
+{
+  "name": "webpack-theme-color-replacer-ex",
+  "version": "1.5.0",
+  "description": "A webpack plugin designed to dynamically change the theme colors at runtime. supports multiple plugin configurations and automatic processing based on the color array.",
+  "keywords": [
+    "webpack",
+    "javascript",
+    "theme",
+    "color",
+    "replacer",
+    "runtime"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test/nodejs/index.js",
+    "webpack": "node test/webpack/webpack.js",
+    "debug": "npm run webpack --theme_debug"
+  },
+  "dependencies": {
+    "webpack-sources": "*"
+  },
+  "devDependencies": {
+    "css-loader": "^3.6.0",
+    "glob": "^7.1.3",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.3",
+    "webpack": "*"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
+  "authors": [
+    {
+      "name": "James.Huang",
+      "email": "hz932@qq.com",
+      "url": "https://github.com/hzsrc/webpack-theme-color-replacer"
+    },
+    {
+      "name": "techidaily",
+      "email": "support@techidaily.com"
+    }
+  ],
+  "readme": "README.md",
+  "thanks": [
+    {
+      "name": "James.Huang",
+      "email": "hz932@qq.com",
+      "url": "http://www.hz300.com/webpack-theme-color-replacer/"
+    }
+  ]
+}
